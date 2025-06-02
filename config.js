@@ -41,6 +41,6 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'Put_Your_Session_ID', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
+SESSION_ID: process.env.SESSION_ID || 'Manu-MD&CIcljSgY#uRq-otz_ENqafF2KTU17pXudyyLVcD9-MDaC3nxO0Ic', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
 PORT: process.env.PORT || '3000'
 };
